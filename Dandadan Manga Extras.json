@@ -4,5 +4,14 @@
   "artist": "Yukinobu Tatsu",
   "author": "Yukinobu Tatsu",
   "cover": "https://cdn.imgchest.com/files/k739cakrzz7.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Extra V1-V5",
+      "volume": "1",
+      "last_updated": "1731829491",
+      "groups": {
+        " VIZ Media": "https://imgchest.com/p/xny8qx8d2yb"
+      }
+    }
+  }
 }
