@@ -6,11 +6,43 @@
   "cover": "https://cdn.imgchest.com/files/k739cakrzz7.png",
   "chapters": {
     "1": {
-      "title": "Extra V1-V5",
+      "title": "Extras V1-V5",
       "volume": "1",
       "last_updated": "1731829491",
       "groups": {
         " VIZ Media": "https://imgchest.com/p/xny8qx8d2yb"
+      }
+    },
+    "2": {
+      "title": "Extras V6-V10",
+      "volume": "6",
+      "last_updated": "1731849612",
+      "groups": {
+        " VIZ Media": "https://imgchest.com/p/9p4n3eaam7n"
+      }
+    },
+    "3": {
+      "title": "Info Cards",
+      "volume": "",
+      "last_updated": "1731849663",
+      "groups": {
+        " VIZ Media": "https://imgchest.com/p/lqyeq3kvzyd"
+      }
+    },
+    "4": {
+      "title": "Author Comments",
+      "volume": "",
+      "last_updated": "1731849719",
+      "groups": {
+        " VIZ Media": "https://imgchest.com/p/bp452xv2g45"
+      }
+    },
+    "5": {
+      "title": "Bonus Art",
+      "volume": "",
+      "last_updated": "1731849750",
+      "groups": {
+        " VIZ Media": "https://imgchest.com/p/bp452xvzg45"
       }
     }
   }
