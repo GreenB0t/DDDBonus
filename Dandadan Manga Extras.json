@@ -46,11 +46,11 @@
       }
     },
     "6": {
-      "title": "tst",
+      "title": "tst2",
       "volume": "",
       "last_updated": "1732262641",
       "groups": {
-        " VIZ Media": "https://imgchest.com/bp452xv2g45"
+        " VIZ Media": "/proxy/api/imgchest/chapter/bp452xv2g45"
       }
     }
   }
